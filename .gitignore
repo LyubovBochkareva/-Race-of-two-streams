@@ -1,0 +1,6 @@
+!**/src/main/**
+
+### IntelliJ IDEA ###
+.idea
+target/
+
